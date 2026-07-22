@@ -14,7 +14,7 @@
 ## доступные разделы
 
 * [правила юзернеймов](https://github.com/omegaGram/omegagram-rules/wiki/username%E2%80%90rules)
-* [главная страница вики]([../../wiki](https://github.com/omegaGram/omegagram-rules/wiki)
+* [главная страница вики](https://github.com/omegaGram/omegagram-rules/wiki)
 
 ## важно
 
